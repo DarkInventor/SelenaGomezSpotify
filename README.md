@@ -11,11 +11,6 @@ Song Examples: Noteworthy songs where "know" is prominently used include "Lose Y
 
 Spotify Songs Analysis: Out of 164 songs analyzed, 135 feature Selena Gomez as an artist. The songs span different years, with the highest number of releases occurring in 2010 and 2009. Popularity scores provide an indication of the songs' reception among Spotify users.
 
-For detailed code implementation, the word cloud visualization, and further analysis, please refer to the Jupyter Notebook available in the GitHub repository.
-
-Note: The analysis presented here is based on the provided code snippet, and additional details or analysis may be present in the full notebook.
-
-
 
 
 <img width="944" alt="Screenshot 2023-05-15 at 4 09 51 AM" src="https://github.com/DarkInventor/SelenaGomezSpotify/assets/67015517/31b8a2a0-34ae-4505-881b-de931120546b">
